@@ -1,0 +1,1 @@
+Interface local storage web promise
